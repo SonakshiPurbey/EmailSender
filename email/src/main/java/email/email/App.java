@@ -22,8 +22,7 @@ public class App {
 	applicationContext=new AnnotationConfigApplicationContext(AppConfiguration.class);
 	Mailing mail=applicationContext.getBean(Mailing.class);
 	mail.sendingMail();
-//	ConfigProperties config=applicationContext.getBean(ConfigProperties.class);
-//	System.out.println(config.getMailModel());
+
 
 	
 	
