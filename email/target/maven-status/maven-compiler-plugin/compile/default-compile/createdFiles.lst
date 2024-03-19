@@ -1,0 +1,6 @@
+email\email\Config\ConfigProperties.class
+email\email\App.class
+email\email\Service\Mailing.class
+email\email\Config\AppConfiguration.class
+email\email\model\Mail.class
+email\email\Service\EmailService.class
